@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fb-clone/static/css/main.ef0513d7.chunk.css",
+    "main.js": "/fb-clone/static/js/main.6dd56771.chunk.js",
+    "main.js.map": "/fb-clone/static/js/main.6dd56771.chunk.js.map",
+    "runtime-main.js": "/fb-clone/static/js/runtime-main.27777e45.js",
+    "runtime-main.js.map": "/fb-clone/static/js/runtime-main.27777e45.js.map",
+    "static/js/2.dd94072b.chunk.js": "/fb-clone/static/js/2.dd94072b.chunk.js",
+    "static/js/2.dd94072b.chunk.js.map": "/fb-clone/static/js/2.dd94072b.chunk.js.map",
+    "index.html": "/fb-clone/index.html",
+    "precache-manifest.1fec991c53a5574c23857d3e9d153889.js": "/fb-clone/precache-manifest.1fec991c53a5574c23857d3e9d153889.js",
+    "service-worker.js": "/fb-clone/service-worker.js",
+    "static/css/main.ef0513d7.chunk.css.map": "/fb-clone/static/css/main.ef0513d7.chunk.css.map",
+    "static/js/2.dd94072b.chunk.js.LICENSE.txt": "/fb-clone/static/js/2.dd94072b.chunk.js.LICENSE.txt",
+    "static/media/bg1.jpeg": "/fb-clone/static/media/bg1.c3b68e5d.jpeg",
+    "static/media/bg2.jpeg": "/fb-clone/static/media/bg2.005cde69.jpeg",
+    "static/media/bg3.jpeg": "/fb-clone/static/media/bg3.9420edd7.jpeg",
+    "static/media/fb.jpg": "/fb-clone/static/media/fb.a90268f0.jpg",
+    "static/media/me.jpg": "/fb-clone/static/media/me.9bcb94c2.jpg",
+    "static/media/me2.jpg": "/fb-clone/static/media/me2.c1f73371.jpg",
+    "static/media/me3.jpg": "/fb-clone/static/media/me3.19f02afe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27777e45.js",
+    "static/js/2.dd94072b.chunk.js",
+    "static/css/main.ef0513d7.chunk.css",
+    "static/js/main.6dd56771.chunk.js"
+  ]
+}
